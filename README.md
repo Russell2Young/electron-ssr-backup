@@ -3,7 +3,7 @@
 
 ## QQ群：[867995623](https://jq.qq.com/?_wv=1027&k=5t06to0)
 
-## Debian系列安装与配置[Ubuntu.md](https://github.com/qingshuisiyuan/electron-ssr-backup/blob/master/Ubuntu.md)
+## Debian系列安装与配置[Ubuntu.md](https://github.com/Russell2Young/electron-ssr-backup/blob/master/Ubuntu.md)
 
 ## 收集已知问题和解决方案[issue.md](https://github.com/qingshuisiyuan/electron-ssr-backup/blob/master/issue.md)
 
